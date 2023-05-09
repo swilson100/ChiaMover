@@ -1,5 +1,5 @@
 # ChiaMover
-script for moving completed plot files from temp directory tro final drive
+script for moving completed plot files from temp directory to final drive
 
 # Usage
 Modify the chaning watch_dir to the temp directory where your chia plots are being made
